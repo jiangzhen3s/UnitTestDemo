@@ -28,6 +28,8 @@ namespace Fakes_UnitTestProject
         {
             using (ShimsContext.Create())
             {
+                //PrivateWork 是私有方法，只要私有方法入参类型在此项目中都可访问那Fakes框架会自动生成shim
+                //如果私有方法临时添加，那么需要重新编译一下
                 ShimTest.AllInstances.PrivateWork = t => "xx";
                 NeedTest test = new NeedTest();
                 Assert.AreEqual("xx", test.CallPrivateWork());
