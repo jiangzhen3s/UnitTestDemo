@@ -64,10 +64,10 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Fakes Include="Fakes\UnitTestDemo.fakes" />
+    <Content Include="References.txt" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="References.txt" />
+    <Fakes Include="Fakes\UnitTestDemo.fakes" />
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
