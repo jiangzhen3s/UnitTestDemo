@@ -1,1 +1,6 @@
-H:\github\UnitTestDemo\UnitTestDemo\bin\Debug\UnitTestDemo.exe.config
+H:\github\UnitTestDemo\UnitTestDemo\bin\Debug\UnitTestDemo.pdb
+H:\github\UnitTestDemo\UnitTestDemo\obj\Debug\UnitTestDemo.pdb
+H:\github\UnitTestDemo\UnitTestDemo\bin\Debug\UnitTestDemo.dll.config
+H:\github\UnitTestDemo\UnitTestDemo\bin\Debug\UnitTestDemo.dll
+H:\github\UnitTestDemo\UnitTestDemo\obj\Debug\UnitTestDemo.dll
+H:\github\UnitTestDemo\UnitTestDemo\obj\Debug\UnitTestDemo.csprojResolveAssemblyReference.cache

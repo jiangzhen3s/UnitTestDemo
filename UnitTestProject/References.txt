@@ -1,0 +1,2 @@
+﻿MSDN文档地址：
+	https://msdn.microsoft.com/zh-cn/library/vstudio/hh549175(v=vs.120).aspx
