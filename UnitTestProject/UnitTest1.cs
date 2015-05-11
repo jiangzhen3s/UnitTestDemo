@@ -17,7 +17,7 @@ namespace Fakes_UnitTestProject
             {
                 UnitTestDemo.Fakes.ShimTest.AllInstances.PublicWork = t => "xx";
 
-                Test test = new Test();
+                NeedTest test = new NeedTest();
                 var ret = test.PublicWork();
                 Assert.AreEqual("xx", ret);
             }
@@ -29,7 +29,7 @@ namespace Fakes_UnitTestProject
             using (ShimsContext.Create())
             {
                 ShimTest.AllInstances.PrivateWork = t => "xx";
-                Test test = new Test();
+                NeedTest test = new NeedTest();
                 Assert.AreEqual("xx", test.CallPrivateWork());
             }
         }

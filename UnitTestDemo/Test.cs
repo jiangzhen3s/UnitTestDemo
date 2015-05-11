@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace UnitTestDemo
 {
-    public class Test
+    /// <summary>
+    /// 需要测试的类
+    /// </summary>
+    public class NeedTest
     {
         public string PublicWork()
         {
