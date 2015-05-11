@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>UnitTestDemo.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:UnitTestDemo.Fakes.ShimTest">
+            <summary>UnitTestDemo.Test 的填充码类型</summary>
+        </member>
+        <member name="M:UnitTestDemo.Fakes.ShimTest.#ctor">
+            <summary>初始化新的填充码实例</summary>
+        </member>
+        <member name="M:UnitTestDemo.Fakes.ShimTest.#ctor(UnitTestDemo.Test)">
+            <summary>初始化给定实例的新填充码</summary>
+        </member>
+        <member name="M:UnitTestDemo.Fakes.ShimTest.BehaveAsCurrent">
+            <summary>为已填充的类型的所有方法分配“Current”行为</summary>
+        </member>
+        <member name="M:UnitTestDemo.Fakes.ShimTest.BehaveAsNotImplemented">
+            <summary>为已填充的类型的所有方法分配“NotImplemented”行为</summary>
+        </member>
+        <member name="P:UnitTestDemo.Fakes.ShimTest.Behavior">
+            <summary>为已填充的类型的所有方法分配行为</summary>
+        </member>
+        <member name="P:UnitTestDemo.Fakes.ShimTest.CallPrivateWork">
+            <summary>设置 Test.CallPrivateWork() 的 填充码</summary>
+        </member>
+        <member name="P:UnitTestDemo.Fakes.ShimTest.Constructor">
+            <summary>设置 Test.Test() 的 填充码</summary>
+        </member>
+        <member name="P:UnitTestDemo.Fakes.ShimTest.PrivateWork">
+            <summary>设置 Test.PrivateWork() 的 填充码</summary>
+        </member>
+        <member name="P:UnitTestDemo.Fakes.ShimTest.PublicWork">
+            <summary>设置 Test.PublicWork() 的 填充码</summary>
+        </member>
+        <member name="T:UnitTestDemo.Fakes.ShimTest.AllInstances">
+            <summary>为所有实例成员定义填充码</summary>
+        </member>
+        <member name="P:UnitTestDemo.Fakes.ShimTest.AllInstances.CallPrivateWork">
+            <summary>设置 Test.CallPrivateWork() 的 填充码</summary>
+        </member>
+        <member name="P:UnitTestDemo.Fakes.ShimTest.AllInstances.PrivateWork">
+            <summary>设置 Test.PrivateWork() 的 填充码</summary>
+        </member>
+        <member name="P:UnitTestDemo.Fakes.ShimTest.AllInstances.PublicWork">
+            <summary>设置 Test.PublicWork() 的 填充码</summary>
+        </member>
+        <member name="T:UnitTestDemo.Fakes.StubTest">
+            <summary>UnitTestDemo.Test 的存根类型</summary>
+        </member>
+        <member name="M:UnitTestDemo.Fakes.StubTest.#ctor">
+            <summary>初始化新实例</summary>
+        </member>
+        <member name="M:UnitTestDemo.Fakes.StubTest.InitializeStub">
+            <summary>初始化 type StubTest 的新实例</summary>
+        </member>
+        <member name="P:UnitTestDemo.Fakes.StubTest.CallBase">
+            <summary>获取或设置一个值，该值指示是否应调用基方法而不调用回退行为</summary>
+        </member>
+        <member name="P:UnitTestDemo.Fakes.StubTest.InstanceBehavior">
+            <summary>获取或设置实例行为。</summary>
+        </member>
+        <member name="P:UnitTestDemo.Fakes.StubTest.InstanceObserver">
+            <summary>获取或设置实例观察者。</summary>
+        </member>
+    </members>
+</doc>

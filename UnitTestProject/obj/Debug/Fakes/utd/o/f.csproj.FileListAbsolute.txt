@@ -1,0 +1,11 @@
+H:\github\UnitTestDemo\UnitTestProject\obj\Debug\Fakes\utd\b\UnitTestDemo.Fakes.xml
+H:\github\UnitTestDemo\UnitTestProject\obj\Debug\Fakes\utd\b\UnitTestDemo.Fakes.dll
+H:\github\UnitTestDemo\UnitTestProject\obj\Debug\Fakes\utd\b\UnitTestDemo.Fakes.pdb
+H:\github\UnitTestDemo\UnitTestProject\obj\Debug\Fakes\utd\b\Microsoft.QualityTools.Testing.Fakes.dll
+H:\github\UnitTestDemo\UnitTestProject\obj\Debug\Fakes\utd\b\UnitTestDemo.dll
+H:\github\UnitTestDemo\UnitTestProject\obj\Debug\Fakes\utd\b\UnitTestDemo.pdb
+H:\github\UnitTestDemo\UnitTestProject\obj\Debug\Fakes\utd\b\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+H:\github\UnitTestDemo\UnitTestProject\obj\Debug\Fakes\utd\o\f.csprojResolveAssemblyReference.cache
+H:\github\UnitTestDemo\UnitTestProject\obj\Debug\Fakes\utd\o\UnitTestDemo.Fakes.rewritten
+H:\github\UnitTestDemo\UnitTestProject\obj\Debug\Fakes\utd\o\UnitTestDemo.Fakes.dll
+H:\github\UnitTestDemo\UnitTestProject\obj\Debug\Fakes\utd\o\UnitTestDemo.Fakes.pdb
